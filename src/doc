@@ -1,0 +1,33 @@
+// Project Name : Destion Innovations
+//project install command: npm i
+//Run command : npm start
+
+// Teach use:{
+//App creation : React 
+// Design: Tailwind
+// External library:react Router Dom
+//   }  
+
+//login: For login u have signup first
+//for signup:{
+//username: greater the 3 letter
+// email: as per email format any  type of email,can support
+//password; 1 upper case 1lower case 1number and not more then 12 letter
+//number : should be in 10 digit
+//}
+
+//while start app app render from home page with menu bar and option on left side for explore more about  website and login option on right side with initial guest mode.
+
+// user can login frm from right side if have already account if don't have account can jump on sign up it has signup option to.
+// once user can sign up with all the required detail written in sign up , user can login with same email and password, as there is no data store or backend to once logout
+// he has to create account again , it all the alert popup for all the wring detail,
+
+// it has on lefts  side bar so user can navigate to different pages( dashboard ,aboutus ,profile, contactus, settings)
+
+//common component Header Footer and side bar are common we can reuse it , it any one can reuse it
+//separate routes folder for create new rotes and   separate paths file as well u can add new  rotes
+// One  separate Layout is created to keep header and footer constant and dynamic component rendering
+
+//create separate asset folder and taken images 
+//create separate constant folder keep all constant items like email regex and all strings,
+// user name is display on profile ,user logout option to and on login popup and 
